@@ -1,0 +1,24 @@
+GET / HTTP/1.1
+Host: wvlirb.lexoffice.de
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+Accept-Charset: utf-8
+Accept-Encoding: gzip
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Mon, 25 Sep 2023 20:09:32 GMT
+Server: Kestrel
+Server-Processing-Duration-In-Ticks: 17193
+Strict-Transport-Security: max-age=31536000; preload;
+
+5b
+<html><head><meta name="robots" content="noindex"></head><body>Page not found</body></html>
+0
+
+
+
+
+https://wvlirb.lexoffice.de/
